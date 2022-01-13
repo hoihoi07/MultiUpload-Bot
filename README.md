@@ -28,7 +28,7 @@ _🎯 Follow me and star this repo for more telegram bots. @HxBots
  - CHNAME: Channel username for fsub without @.
  - OWNRID: OwnerId for commands (may be in future).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoihoi07/MultiUpload-Bot)
 
 ## 🚩 Credits
 - [Lucifeermorningstar](https://github.com/lucifeermorningstar) for Telethon Bot Base. (A Daisy Owner)
